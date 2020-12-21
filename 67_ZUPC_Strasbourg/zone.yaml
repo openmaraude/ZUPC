@@ -1,0 +1,36 @@
+name: ZUPC sur le territoire de l’Eurométropole de Strasbourg
+allowed:
+  # Assuming towns joining the "EMS" also join the ZUPC
+  67482: Strasbourg
+  67001: Achenheim
+  67043: Bischheim
+  67049: Blaesheim
+  67065: Breuschwickersheim
+  67118: Eckbolsheim
+  67119: Eckwersheim
+  67124: Entzheim
+  67131: Eschau
+  67137: Fegersheim
+  67152: Geispolsheim
+  67182: Hangenbieten
+  67204: Hœnheim
+  67212: Holtzheim
+  67218: Illkirch-Graffenstaden
+  67247: Kolbsheim
+  67256: Lampertheim
+  67267: Lingolsheim
+  67268: Lipsheim
+  67296: Mittelhausbergen
+  67309: Mundolsheim
+  67326: Niederhausbergen
+  67343: Oberhausbergen
+  67350: Oberschaeffolsheim
+  67363: Osthoffen
+  67365: Ostwald
+  67378: Plobsheim
+  67389: Reichstett
+  67447: Schiltigheim
+  67471: Souffelweyersheim
+  67506: Vendenheim
+  67519: La Wantzenau
+  67551: Wolfisheim

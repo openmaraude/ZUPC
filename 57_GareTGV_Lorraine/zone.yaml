@@ -1,0 +1,40 @@
+name: Gare Lorraine TGV
+allowed:
+  57463: Metz
+  # The following are attached to Metz
+  57049: Le Ban-Saint-Martin
+  57480: Montigny-lès-Metz
+  57487: Moulins-lès-Metz
+  57616: Saint-Julien-lès-Metz
+  57751: Woippy
+  # end Metz
+  54395: Nancy
+  # The following are attached to Nancy
+  54184: Essey-lès-Nancy
+  54482: Saint-Max
+  54526: Tomblaine
+  54274: Jarville-la-Malgrange
+  54547: Vandœuvre-lès-Nancy
+  54578: Villers-lès-Nancy
+  54339: Malzéville
+  54357: Maxéville
+  54498: Seichamps
+  54439: Pulnoy
+  54257: Heillecourt
+  54304: Laxou
+  54115: Champigneulles
+  54300: Laneuveville-devant-Nancy
+  54495: Saulxures-lès-Nancy
+  54165: Dommartemont
+  54328: Ludres
+  54197: Fléville-devant-Nancy
+  54265: Houdemont
+  54025: Art-sur-Meurthe
+  # end Nancy
+  #- 57655: Solgne should be part of the Airport zone but not explicitly listed
+  57447: Marly
+  57708: Verny
+  57251: Goin
+  57162: Cuvry
+  54431: Pont-à-Mousson
+  54400: Nomeny

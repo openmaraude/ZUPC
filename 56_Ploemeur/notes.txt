@@ -1,0 +1,3 @@
+Utilisé uniquement pour qu'un point dans l'aéroport de Lorient ne soit pas
+trouvé dans deux zones, mais Ploemeur est aussi dans la ZUPC de l'aéroport de
+toute façon.

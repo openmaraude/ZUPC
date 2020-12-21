@@ -1,0 +1,8 @@
+name: Aéroport de Lorient
+allowed:
+  56078: Guidel
+  56107: Larmor-Plage
+  56121: Lorient
+  56162: Ploemeur
+  56185: Quéven
+feature: aeroport.json

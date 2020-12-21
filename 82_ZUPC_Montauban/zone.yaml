@@ -1,0 +1,10 @@
+name: Service commun de taxis Grand Montauban
+allowed:
+  82001: Albefeuille-Lagarde
+  82025: Bressols
+  82044: Corbarieu
+  82090: Lamothe-Capdeville
+  82121: Montauban
+  82124: Montbeton
+  82167: Saint-Nauphary
+  82195: Villemade

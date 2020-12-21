@@ -1,0 +1,7 @@
+name: Gare TGV Valence Rhône-Alpes Sud
+allowed:
+  26004: Alixan
+  26084: Châteauneuf-sur-Isère
+  26313: Saint-Marcel-lès-Valence
+  26362: Valence
+feature: gare_valence.json

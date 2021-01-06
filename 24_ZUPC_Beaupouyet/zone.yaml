@@ -1,4 +1,4 @@
 name: Service intercommunal de taxis de Beaupouyet et Saint-Laurent-des-Hommes
 allowed:
-  24029: Beaupouyet
-  24436: Saint-Laurent-des-Hommes
+  '24029': Beaupouyet
+  '24436': Saint-Laurent-des-Hommes

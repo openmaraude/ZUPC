@@ -1,20 +1,21 @@
 name: Aéroport du Havre-Octeville
 allowed:
-  76167
-  76238
-  76270
-  76275
-  76296
-  76305
-  76341
-  76351
-  76404
-  76409
-  76447
-  76477
-  76481
-  76533
-  76534
-  76552
-  76616
+  '76167': Cauville-sur-Mer
+  '76238': Épouville
+  '76270': Fontaine-la-Mallet
+  '76275': Fontenay
+  '76296': Gainneville
+  '76305': Gonfreville-l'Orcher
+  '76341': Harfleur
+  '76351': Le Havre
+  '76404': Manéglise
+  '76409': Mannevillette
+  '76447': Montivilliers
+  '76477': Notre-Dame-du-Bec
+  '76481': Octeville-sur-Mer
+  '76533': Rogerville
+  '76534': Rolleville
+  '76552': Sainte-Adresse
+  '76616': Saint-Martin-du-Manoir
+
 # feature: airport polygon is missing

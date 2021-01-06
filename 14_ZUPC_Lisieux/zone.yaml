@@ -1,27 +1,27 @@
 # As found page 16
 name: ZUPC de Lisieux-Pays d'Auge
 allowed:
-  14069: Beuvillers
-  14082: La Boissière
-  14177: Coquainvilliers
-  14193: Courtonne-la-Meurdrac
-  14194: Courtonne-les-Deux-Églises
-  14303: Glos
-  14326: Hermival-les-Vaux
-  14337: La Houblonnière
-  14362: Lessard-et-le-Chêne
-  14419: Le Mesnil-Eudes
-  14421: Le Mesnil-Guillaume
-  14425: Le Mesnil-Simon
-  14435: Les Monceaux
-  14520: Le Pré-d'Auge
-  14366: Lisieux
-  14487: Ouilly-le-Vicomte
-  14522: Prêtreville
-  14540: Rocques
-  14574: Saint-Désir
-  14582: Saint-Germain-de-Livet
-  14595: Saint-Jean-de-Livet
-  14625: Saint-Martin-de-la-Lieue
-  14626: Saint-Martin-de-Mailloc
-  14648: Saint-Pierre-des-Ifs
+  '14069': Beuvillers
+  '14082': La Boissière
+  '14177': Coquainvilliers
+  '14193': Courtonne-la-Meurdrac
+  '14194': Courtonne-les-Deux-Églises
+  '14303': Glos
+  '14326': Hermival-les-Vaux
+  '14337': La Houblonnière
+  '14362': Lessard-et-le-Chêne
+  '14419': Le Mesnil-Eudes
+  '14421': Le Mesnil-Guillaume
+  '14425': Le Mesnil-Simon
+  '14435': Les Monceaux
+  '14520': Le Pré-d'Auge
+  '14366': Lisieux
+  '14487': Ouilly-le-Vicomte
+  '14522': Prêtreville
+  '14540': Rocques
+  '14574': Saint-Désir
+  '14582': Saint-Germain-de-Livet
+  '14595': Saint-Jean-de-Livet
+  '14625': Saint-Martin-de-la-Lieue
+  '14626': Saint-Martin-de-Mailloc
+  '14648': Saint-Pierre-des-Ifs

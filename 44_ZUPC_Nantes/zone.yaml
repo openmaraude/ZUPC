@@ -1,18 +1,18 @@
 name: Service commun de taxis sur le territoire des seize communes
 allowed:
-  44024: Brains
-  44020: Bouguenais
-  44026: Carquefou
-  44035: La-Chapelle-sur-Erdre
-  44047: Couëron
-  44074: Indre
-  44109: Nantes
-  44114: Orvault
-  44143: Rezé
-  44150: Saint-Aignan-Grandlieu
-  44162: Saint-Herblain
-  44190: Saint-Sébastien-sur-Loire
-  44172: Sainte-Luce-sur-Loire
-  44194: Sautron
-  44198: Les Sorinières
-  44215: Vertou
+  '44024': Brains
+  '44020': Bouguenais
+  '44026': Carquefou
+  '44035': La-Chapelle-sur-Erdre
+  '44047': Couëron
+  '44074': Indre
+  '44109': Nantes
+  '44114': Orvault
+  '44143': Rezé
+  '44150': Saint-Aignan-Grandlieu
+  '44162': Saint-Herblain
+  '44190': Saint-Sébastien-sur-Loire
+  '44172': Sainte-Luce-sur-Loire
+  '44194': Sautron
+  '44198': Les Sorinières
+  '44215': Vertou

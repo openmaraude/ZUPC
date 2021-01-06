@@ -1,20 +1,20 @@
 name: Aérodrome de Brive-Souillac
 allowed:
-  19031: Brive-la-Gaillarde
-  19049: Chasteaux
-  19063: Cosnac
-  19107: Larche
-  19117: Lissac-sur-Couze
-  19123: Malemort
-  19147: Nespouls
-  19151: Noailles
-  19191: Saint-Cernin-de-Larche
-  19229: Saint-Pantaléon-de-Larche
-  19274: Ussac
-  19278: Varetz
+  '19031': Brive-la-Gaillarde
+  '19049': Chasteaux
+  '19063': Cosnac
+  '19107': Larche
+  '19117': Lissac-sur-Couze
+  '19123': Malemort
+  '19147': Nespouls
+  '19151': Noailles
+  '19191': Saint-Cernin-de-Larche
+  '19229': Saint-Pantaléon-de-Larche
+  '19274': Ussac
+  '19278': Varetz
   # The airport covers another department
   46083: Cressensac-Sarrazac
-  46185: Martel
-  46232: Le Vignon-en-Quercy # formerly Les Quatre-Routes-du-Lot
-  46309: Souillac
+  '46185': Martel
+  '46232': Le Vignon-en-Quercy # formerly Les Quatre-Routes-du-Lot
+  '46309': Souillac
 feature: aerodrome.json

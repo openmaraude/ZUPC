@@ -1,9 +1,9 @@
 name: Taxis de l’agglomération chartraine
 allowed:
-  28085: Chartres
-  28070: Champhol
-  28110: Le Coudray
-  28209: Leves
-  28218: Lucé
-  28220: Luisant
-  28229: Mainvilliers
+  '28085': Chartres
+  '28070': Champhol
+  '28110': Le Coudray
+  '28209': Leves
+  '28218': Lucé
+  '28220': Luisant
+  '28229': Mainvilliers

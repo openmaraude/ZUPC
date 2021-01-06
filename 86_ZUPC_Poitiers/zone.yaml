@@ -1,5 +1,5 @@
 name: ZUPC
 allowed:
-  86194: Poitiers
-  86027: Biard
-  86062: Chasseneuil-du-Poitou
+  '86194': Poitiers
+  '86027': Biard
+  '86062': Chasseneuil-du-Poitou

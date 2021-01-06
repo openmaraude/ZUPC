@@ -1,29 +1,29 @@
 name: ZUPC de l’agglomération lyonnaise et de l’aéroport de Lyon Saint-Exupéry
 allowed:
-  69029: Bron
-  69034: Caluire-et-Cuire
-  69040: Champagne-au-Mont-d'Or
-  69271: Chassieu
-  69063: Collonges-au-Mont-d'Or
-  69275: Décines-Charpieu
-  69081: Écully
-  69089: Francheville
-  69277: Genas
-  69142: La Mulatière
-  69123: Lyon
-  69282: Meyzieu
-  69149: Oullins
-  69152: Pierre-Bénite
-  69286: Rillieux-la-Pape
-  69191: Saint-Cyr-au-Mont-d'Or
-  69194: Saint-Didier-au-Mont-d'Or
-  69199: Saint-Fons
-  69290: Saint-Priest
-  69202: Sainte-Foy-lès-Lyon
-  69244: Tassin-la-Demi-Lune
-  69256: Vaulx-en-Velin
-  69259: Vénissieux
-  69266: Villeurbanne
+  '69029': Bron
+  '69034': Caluire-et-Cuire
+  '69040': Champagne-au-Mont-d'Or
+  '69271': Chassieu
+  '69063': Collonges-au-Mont-d'Or
+  '69275': Décines-Charpieu
+  '69081': Écully
+  '69089': Francheville
+  '69277': Genas
+  '69142': La Mulatière
+  '69123': Lyon
+  '69282': Meyzieu
+  '69149': Oullins
+  '69152': Pierre-Bénite
+  '69286': Rillieux-la-Pape
+  '69191': Saint-Cyr-au-Mont-d'Or
+  '69194': Saint-Didier-au-Mont-d'Or
+  '69199': Saint-Fons
+  '69290': Saint-Priest
+  '69202': Sainte-Foy-lès-Lyon
+  '69244': Tassin-la-Demi-Lune
+  '69256': Vaulx-en-Velin
+  '69259': Vénissieux
+  '69266': Villeurbanne
 
 # The airport stations would be missing
 #include: aeroport-saint-exupery.json

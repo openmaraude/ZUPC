@@ -1,18 +1,18 @@
 name: ZUPC des taxis de Deauville-Honfleur
 allowed:
-  14059: Benerville-sur-Mer
-  14079: Blonville-sur-Mer
-  14086: Bonneville-sur-Touques
-  14131: Canapville
-  14220: Deauville
-  14333: Honfleur
-  14536: La Rivière-Saint-Sauveur
-  14557: Saint-Arnoult
-  14578: Saint-Gatien-des-Bois
-  14645: Saint-Pierre-Azif
-  14699: Touques
-  14701: Tourgéville
-  14715: Trouville-sur-Mer
-  14731: Vauville
-  14754: Villers-sur-Mer
-  14755: Villerville
+  '14059': Benerville-sur-Mer
+  '14079': Blonville-sur-Mer
+  '14086': Bonneville-sur-Touques
+  '14131': Canapville
+  '14220': Deauville
+  '14333': Honfleur
+  '14536': La Rivière-Saint-Sauveur
+  '14557': Saint-Arnoult
+  '14578': Saint-Gatien-des-Bois
+  '14645': Saint-Pierre-Azif
+  '14699': Touques
+  '14701': Tourgéville
+  '14715': Trouville-sur-Mer
+  '14731': Vauville
+  '14754': Villers-sur-Mer
+  '14755': Villerville

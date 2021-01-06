@@ -1,5 +1,5 @@
 name: ZUPC délimitée par les communes
 allowed:
-  59512: Roubaix
-  59599: Tourcoing
-  59650: Wattrelos
+  '59512': Roubaix
+  '59599': Tourcoing
+  '59650': Wattrelos

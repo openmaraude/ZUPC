@@ -1,5 +1,5 @@
 # Create a fake zone just to exclude the airport from another zone
 name: Ploemeur
 allowed:
-  56162: Ploemeur
+  '56162': Ploemeur
 exclude: aeroport.json

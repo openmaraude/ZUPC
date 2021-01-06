@@ -81,25 +81,4 @@ allowed:
   94076: Villejuif
   94080: Vincennes
   94081: Vitry-sur-Seine
-  # Also detail Paris arrondissements
-  #75101: Paris 1er Arrondissement
-  #75102: Paris 2e Arrondissement
-  #75103: Paris 3e Arrondissement
-  #75104: Paris 4e Arrondissement
-  #75105: Paris 5e Arrondissement
-  #75106: Paris 6e Arrondissement
-  #75107: Paris 7e Arrondissement
-  #75108: Paris 8e Arrondissement
-  #75109: Paris 9e Arrondissement
-  #75110: Paris 10e Arrondissement
-  #75111: Paris 11e Arrondissement
-  #75112: Paris 12e Arrondissement
-  #75113: Paris 13e Arrondissement
-  #75114: Paris 14e Arrondissement
-  #75115: Paris 15e Arrondissement
-  #75116: Paris 16e Arrondissement
-  #75117: Paris 17e Arrondissement
-  #75118: Paris 18e Arrondissement
-  #75119: Paris 19e Arrondissement
-  #75120: Paris 20e Arrondissement
 #include: Parc des expositions de Villepinte and Aéroport de Paris-Charles-de-Gaulle are missing

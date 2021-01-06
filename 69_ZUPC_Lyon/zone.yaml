@@ -24,16 +24,6 @@ allowed:
   69256: Vaulx-en-Velin
   69259: Vénissieux
   69266: Villeurbanne
-  # Also detail Lyon arrondissments
-  #69381: Lyon 1er Arrondissement
-  #69382: Lyon 2e Arrondissement
-  #69383: Lyon 3e Arrondissement
-  #69384: Lyon 4e Arrondissement
-  #69385: Lyon 5e Arrondissement
-  #69386: Lyon 6e Arrondissement
-  #69387: Lyon 7e Arrondissement
-  #69388: Lyon 8e Arrondissement
-  #69389: Lyon 9e Arrondissement
 
 # The airport stations would be missing
 #include: aeroport-saint-exupery.json

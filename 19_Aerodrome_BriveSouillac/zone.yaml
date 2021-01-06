@@ -13,7 +13,7 @@ allowed:
   '19274': Ussac
   '19278': Varetz
   # The airport covers another department
-  46083: Cressensac-Sarrazac
+  '46083': Cressensac-Sarrazac
   '46185': Martel
   '46232': Le Vignon-en-Quercy # formerly Les Quatre-Routes-du-Lot
   '46309': Souillac

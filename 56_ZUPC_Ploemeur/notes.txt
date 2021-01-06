@@ -1,0 +1,4 @@
+Utilisé uniquement pour qu'un client dans l'aéroport de Lorient ne voit pas
+un taxi qui circulerait à proximité.
+
+Il devrait y avoir une station de taxi.

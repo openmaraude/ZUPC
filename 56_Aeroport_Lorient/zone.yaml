@@ -1,0 +1,9 @@
+id: e020383f-e9e7-4608-bbe9-f28f8fee1b6c
+name: Aéroport de Lorient
+allowed:
+  '56078': Guidel
+  '56107': Larmor-Plage
+  '56121': Lorient
+  '56162': Ploemeur
+  '56185': Quéven
+feature: aeroport.json

@@ -1,0 +1,85 @@
+id: 49820f64-544f-461b-9528-6759943390eb
+name: Taxis parisiens
+allowed:
+  '75056': Paris
+  '92002': Antony
+  '92004': Asnières-sur-Seine
+  '92007': Bagneux
+  '92009': Bois-Colombes
+  '92012': Boulogne-Billancourt
+  '92014': Bourg-la-Reine
+  '92019': Châtenay-Malabry
+  '92020': Châtillon
+  '92023': Clamart
+  '92024': Clichy
+  '92025': Colombes
+  '92026': Courbevoie
+  '92032': Fontenay-aux-Roses
+  '92035': La Garenne-Colombes
+  '92036': Gennevilliers
+  '92040': Issy-les-Moulineaux
+  '92044': Levallois-Perret
+  '92046': Malakoff
+  '92049': Montrouge
+  '92050': Nanterre
+  '92051': Neuilly-sur-Seine
+  '92060': Le Plessis-Robinson
+  '92062': Puteaux
+  '92071': Sceaux
+  '92073': Suresnes
+  '92075': Vanves
+  '92078': Villeneuve-la-Garenne
+  '93001': Aubervilliers
+  '93006': Bagnolet
+  '93008': Bobigny
+  '93013': Le Bourget
+  '93027': La Courneuve
+  '93029': Drancy
+  '93030': Dugny
+  '93031': Épinay-sur-Seine
+  '93032': Gagny
+  '93039': L'Île-Saint-Denis
+  '93045': Les Lilas
+  '93048': Montreuil
+  '93053': Noisy-le-Sec
+  '93055': Pantin
+  '93057': Les Pavillons-sous-Bois
+  '93059': Pierrefitte-sur-Seine
+  '93061': Le Pré-Saint-Gervais
+  '93063': Romainville
+  '93064': Rosny-sous-Bois
+  '93066': Saint-Denis
+  '93070': Saint-Ouen-sur-Seine
+  '93072': Stains
+  '93077': Villemomble
+  '93079': Villetaneuse
+  '94002': Alfortville
+  '94003': Arcueil
+  '94011': Bonneuil-sur-Marne
+  '94015': Bry-sur-Marne
+  '94016': Cachan
+  '94017': Champigny-sur-Marne
+  '94018': Charenton-le-Pont
+  '94021': Chevilly-Larue
+  '94022': Choisy-le-Roi
+  '94028': Créteil
+  '94033': Fontenay-sous-Bois
+  '94034': Fresnes
+  '94037': Gentilly
+  '94038': L'Haÿ-les-Roses
+  '94041': Ivry-sur-Seine
+  '94042': Joinville-le-Pont
+  '94043': Le Kremlin-Bicêtre
+  '94046': Maisons-Alfort
+  '94052': Nogent-sur-Marne
+  '94054': Orly
+  '94058': Le Perreux-sur-Marne
+  '94065': Rungis
+  '94067': Saint-Mandé
+  '94068': Saint-Maur-des-Fossés
+  '94069': Saint-Maurice
+  '94073': Thiais
+  '94076': Villejuif
+  '94080': Vincennes
+  '94081': Vitry-sur-Seine
+#include: Parc des expositions de Villepinte and Aéroport de Paris-Charles-de-Gaulle are missing

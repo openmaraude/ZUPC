@@ -1,0 +1,9 @@
+id: 0ce3a4b6-ef06-4566-bb7e-5f7ca67974f0
+name: Service commun de taxis sur le territoire des communes
+allowed:
+  '59350': Lille
+  '59360': Loos
+  '59368': La Madeleine
+  '59527': Saint-André-lez-Lille
+  '59009': Villeneuve-d'Ascq
+  '59328': Lambersart

@@ -1,0 +1,5 @@
+id: 10f46187-f25a-4015-ba13-d3e90582c350
+name: Aéroport de Marseille-Provence
+# La maraude n'est pas possible dans la zone aeroportuaire
+# et les stations ne sont pas encore prises en charge
+feature: Aéroport de Marseille Provence.geojson

@@ -1,0 +1,75 @@
+id: 9894a535-4eca-4da4-a834-cc125cdebcce
+name: Aéroport de Rouen-Vallée de Seine
+allowed:
+  '76005': Amfreville-la-Mi-Voie
+  '76020': Anneville-Ambourville
+  '76039': Les Authieux-sur-le-Port-Saint-Ouen
+  '76056': Bardouville
+  '76069': Belbeuf
+  '76088': Berville-sur-Seine
+  '76095': Bihorel
+  '76103': Bonsecours
+  '76108': Bois-Guillaume
+  '76116': Boos
+  '76131': La Bouille
+  '76157': Canteleu
+  '76165': Caudebec-lès-Elbeuf
+  '76178': Cléon
+  '76212': Darnétal
+  '76216': Déville-lès-Rouen
+  '76222': Duclair
+  '76231': Elbeuf
+  '76237': Épinay-sur-Duclair
+  '76273': Fontaine-sous-Préaux
+  '76282': Freneuse
+  '76313': Gouy
+  '76319': Grand-Couronne
+  '76322': Le Grand-Quevilly
+  '76350': Hautot-sur-Seine
+  '76354': Hénouville
+  '76366': Le Houlme
+  '76367': Houppeville
+  '76377': Isneauville
+  '76378': Jumièges
+  '76391': La Londe
+  '76402': Malaunay
+  '76410': Maromme
+  '76429': Le Mesnil-Esnard
+  '76436': Le Mesnil-sous-Jumièges
+  '76448': Montmain
+  '76451': Mont-Saint-Aignan
+  '76457': Moulineaux
+  '76464': La Neuville-Chant-d'Oisel
+  '76474': Notre-Dame-de-Bondeville
+  '76475': Franqueville-Saint-Pierre
+  '76484': Oissel
+  '76486': Orival
+  '76497': Petit-Couronne
+  '76498': Le Petit-Quevilly
+  '76513': Quevillon
+  '76514': Quévreville-la-Poterie
+  '76536': Roncherolles-sur-le-Vivier
+  '76540': Rouen
+  '76550': Sahurs
+  '76558': Saint-Aubin-Celloville
+  '76560': Saint-Aubin-Épinay
+  '76561': Saint-Aubin-lès-Elbeuf
+  '76575': Saint-Étienne-du-Rouvray
+  '76591': Saint-Jacques-sur-Darnétal
+  '76599': Saint-Léger-du-Bourg-Denis
+  '76608': Sainte-Marguerite-sur-Duclair
+  '76614': Saint-Martin-de-Boscherville
+  '76617': Saint-Martin-du-Vivier
+  '76631': Saint-Paër
+  '76634': Saint-Pierre-de-Manneville
+  '76636': Saint-Pierre-de-Varengeville
+  '76640': Saint-Pierre-lès-Elbeuf
+  '76681': Sotteville-lès-Rouen
+  '76682': Sotteville-sous-le-Val
+  '76705': Tourville-la-Rivière
+  '76709': Le Trait
+  '76717': Val-de-la-Haye
+  '76750': Yainville
+  '76753': Ymare
+  '76759': Yville-sur-Seine
+# feature: airport polygon is missing

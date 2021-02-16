@@ -1,0 +1,39 @@
+id: bf4bb12c-dbe3-4e11-8e02-ddc41cd2ee79
+# As found page 13
+name: ZUPC des taxis de Caen-la-Mer
+allowed:
+  '14030': Authie
+  '14060': Bénouville
+  '14068': Biéville-Beuville
+  '14076': Blainville-sur-Orne
+  '14101': Bretteville-sur-Odon
+  '14118': Caen
+  '14125': Cambes-en-Plaine
+  '14137': Carpiquet
+  '14167': Colombelles
+  '14166': Colleville-Montgomery
+  '14181': Cormelles-le-Royal
+  '14215': Cuverville
+  '14221': Démouville
+  '14242': Épron
+  '14254': Éterville
+  '14271': Fleury-sur-Orne
+  '14301': Giberville
+  '14325': Hermanville-sur-Mer
+  '14327': Hérouville-Saint-Clair
+  '14341': Ifs
+  '14365': Lion-sur-Mer
+  '14383': Louvigny
+  '14407': Mathieu
+  '14437': Mondeville
+  '14454': Mouen
+  '14488': Ouistreham
+  '14495': Périers-sur-le-Dan
+  '14556': Saint-André-sur-Orne
+  '14558': Saint-Aubin-d’Arquenay
+  '14566': Saint-Contest
+  '14587': Saint-Germain-la-Blanche-Herbe
+  '14666': Sannerville
+  '14707': Tourville-sur-Odon
+  '14758': Villons-les-Buissons
+  '14738': Verson

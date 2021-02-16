@@ -1,0 +1,10 @@
+id: c68d2e5b-9690-46d6-83c4-4a4b531c085b
+# As found page 14
+name: ZUPC de Cabourg
+allowed:
+  '14117': Cabourg
+  '14225': Dives-sur-Mer
+  '14305': Gonneville-sur-Mer
+  '14724': Varaville  # aka Le Home-Varaville
+  '14338': Houlgate
+  '14409': Merville-Franceville-Plage

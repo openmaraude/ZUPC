@@ -1,0 +1,13 @@
+id: d3d03c7b-24fb-4b55-b536-29c4c0ef949e
+name: Val d'Europe-Chessy
+allowed:
+  '77018': Bailly-Romainvilliers
+  '77111': Chessy
+  '77132': Coupvray
+  '77268': Magny-le-Hongre
+  '77449': Serris
+  # ? - '77141': Coutevroult
+  # ? - '77307': Montévrain
+  # ? - '77315': Montry
+  # ? - '77429': Saint-Germain-sur-Morin
+  # ? - '77508': Villeneuve-le-Comte

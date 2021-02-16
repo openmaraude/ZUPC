@@ -1,0 +1,30 @@
+id: b1120d5b-2f44-4bda-9ff8-f1c06056b4da
+name: Service intercommunal de taxis de l’agglomération amiénoise
+allowed:
+  '80020': Allonville
+  '80021': Amiens
+  '80092': Bertangles
+  '80107': Blangy-Tronville
+  '80130': Bovelles
+  '80131': Boves
+  '80160': Cagny
+  '80164': Camon
+  '80256': Dreuil-lès-Amiens
+  '80261': Dury
+  '80379': Glisy
+  '80489': Longueau
+  '80632': Pont-de-Metz
+  '80639': Poulainville
+  '80674': Rivery
+  '80696': Sains-en-Amiénois
+  '80702': Saint-Fuscien
+  '80724': Saleux
+  '80725': Salouël
+  '80730': Saveuse
+  '80791': Vers-sur-Selle
+  '80752': Thézy-Glimont
+  '80198': Clairy-Saulchoix
+  '80225': Creuse
+  '80399': Guignemicourt
+  '80626': Pissy
+  '80670': Revelles

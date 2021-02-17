@@ -110,5 +110,10 @@ PostgreSQL, we don't use the INSEE code for that purpose.
 The first way to improve this repository is ideally to have French
 administrations to contribute when they create or change a ZUPC.
 
-The import script could also be improved for performance and to reduce stress on
-the production database.
+## Open Data
+
+The final map of ZUPC can be exported from the APITaxi database:
+
+  docker exec -ti api_taxi_front flask export_zupc > zupc.geojson
+
+to be published on [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/zones-uniques-de-prises-en-charge-des-taxis-zupc/).

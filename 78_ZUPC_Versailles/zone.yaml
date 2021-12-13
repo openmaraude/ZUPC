@@ -1,8 +1,7 @@
 id: a1d46ae8-8c2a-4399-ab0c-4fa89539ecb7
-name: ZUPC_Versailles
+name: ZUPC Versailles
 allowed:
-  '78158': Le Chesnay
+  '78158': Le Chesnay-Rocquencourt
   '78117': Buc
   '78343': Les-Loges-en-Josas
-  '78524': Rocquencourt
   '78646': Versailles

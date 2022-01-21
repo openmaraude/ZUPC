@@ -1,0 +1,20 @@
+# Fusions de communes détectées entre 2021 et 2022.
+#
+mapping:
+  '02695': '02054'  # Saint-Thibaut ->  Bazoches-et-Saint-Thibaut
+  '16010': '16186'  # Ambleville -> Lignières-Ambleville
+  '19092': '19143'  # Le Jardin -> Montaignac-sur-Doustre
+  '24089': '24325'  # Cazoulès -> Pechs-de-l'Espérance
+  '24314': '24325'  # Orliaguet -> Pechs-de-l'Espérance
+  '25134': '25185'  # Châtillon-sur-Lison -> Cussey-sur-Lison
+  '26219': '26216'  # Mureils -> Saint-Jean-de-Galaure
+  '27676': '27058'  # Les Trois Lacs (en fait Venables fusionnée en 2017, rattrapage de OSM)
+  '56049': '56213'  # Croixanvec -> Saint-Gérand-Croixanvec
+  '85307': '85001'  # La Faute-sur-Mer -> L'Aiguillon-la-Presqu'île
+  # Ces territoires sont soit hors juridiction du registre, soit on avisera si nécessaire,
+  # mais ils ont été sortis des dumps d'OpenStreetMap du territoire français
+  # et seront supprimés de nos bases à l'import 2022 sans impact.
+  # 97501 Miquelon-Langlade
+  # 97502 Saint-Pierre
+  # 97701 Saint-Barthélemy
+  # 97801 Saint-Martin (France)

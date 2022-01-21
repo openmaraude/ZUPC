@@ -1,6 +1,7 @@
 # Fusions de communes détectées entre 2016 et 2020.
 #
-# Ainsi que les arrondissements qui ne sont plus pris en compte
+# Ainsi que les arrondissements qui ne sont plus pris en compte.
+# C'est pour le mieux dans notre cas d'utilisation qui nécessite une commune entière
 # puisque les ADS sont délivrées pour desservir une ville ou une ZUPC pas juste un arrondissement.
 #
 # Les ADS existantes seront migrées au nouveau code INSEE.

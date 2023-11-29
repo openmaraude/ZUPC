@@ -1,3 +1,4 @@
+#source: https://www.prefecturedepolice.interieur.gouv.fr/sites/default/files/Documents/carte%20de%20zone-%20site%20internet.pdf
 id: 49820f64-544f-461b-9528-6759943390eb
 name: ZUPC des taxis parisiens
 allowed:
@@ -32,12 +33,12 @@ allowed:
   '93001': Aubervilliers
   '93006': Bagnolet
   '93008': Bobigny
+  '93010': Bondy
   '93013': Le Bourget
   '93027': La Courneuve
   '93029': Drancy
   '93030': Dugny
   '93031': Épinay-sur-Seine
-  '93032': Gagny
   '93039': L'Île-Saint-Denis
   '93045': Les Lilas
   '93048': Montreuil

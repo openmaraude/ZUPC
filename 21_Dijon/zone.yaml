@@ -1,0 +1,26 @@
+id: 5a61e9ea-e32e-4191-90d1-f6c64697f1de
+name: Dijon Métropole
+allowed:
+  '21231': Dijon
+  '21003': Ahuy
+  '21105': Bressey-sur-Tille
+  '21106': Bretenière
+  '21166': Chenôve
+  '21171': Chevigny-Saint-Sauveur
+  '21192': Corcelles-les-Monts
+  '21223': Daix
+  '21263': Fénay
+  '21270': Flavignerot
+  '21278': Fontaine-lès-Dijon
+  '21315': Hauteville-lès-Dijon
+  '21355': Longvic
+  '21370': Magny-sur-Tille
+  '21390': Marsannay-la-Côte
+  '21452': Neuilly-Crimolois
+  '21473': Ouges
+  '21481': Perrigny-lès-Dijon
+  '21485': Plombières-lès-Dijon
+  '21515': Quetigny
+  '21540': Saint-Apollinaire
+  '21605': Sennecey-lès-Dijon
+  '21617': Talant
